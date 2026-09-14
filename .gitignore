@@ -2,3 +2,12 @@
 package/Data/*
 package/Saved Games/*
 package/Client/*
+
+# User files
+package/dune2000.ini
+package/ddraw.dll
+package/ddraw.ini
+package/spawn.ini
+package/spawnmap.ini
+package/rules.ini
+package/rules-spawn.ini
