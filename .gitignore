@@ -1,5 +1,6 @@
 # Game assets, client logs and cache, game saves
 package/Data/*
+package/Game/*
 package/Saved Games/*
 package/Client/*
 
