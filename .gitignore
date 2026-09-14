@@ -52,6 +52,7 @@ package/System.Data.SQLite.dll
 package/ThumbnailExtractor.dll
 
 # User files
+package/Map Editor/D2kEditor.ini
 package/dune2000.ini
 package/ddraw.dll
 package/ddraw.ini
