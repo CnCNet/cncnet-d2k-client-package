@@ -1,10 +1,13 @@
 # Game assets, client logs and cache, game saves
 package/Data/*
 package/Game/*
-package/Saved Games/*
 package/Client/*
+package/Saved Games/*
 
 # Game assets dirs if they copied on top of the client
+package/CnCNet5/*
+package/Map and Mission Editor/*
+package/MissionLauncherBackups/*
 package/bin/*
 package/maps/*
 package/GAMESFX/*
@@ -31,6 +34,7 @@ package/*.FNT
 package/*.FPL
 package/ICON102_1.ico
 package/DUNE2000.HTM
+package/dune2000.rc
 package/RESOURCE.CFG
 package/PALETTE.RES
 
@@ -53,12 +57,7 @@ package/System.Data.SQLite.dll
 package/ThumbnailExtractor.dll
 
 # User files
-package/Map Editor/D2kEditor.ini
-package/dune2000.ini
 package/ddraw.dll
-package/ddraw.ini
-package/spawn.ini
-package/spawnmap.ini
-package/rules.ini
-package/rules-spawn.ini
+package/Map Editor/D2kEditor.ini
+package/*.ini
 package/spawn.mis
