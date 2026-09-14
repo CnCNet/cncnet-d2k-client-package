@@ -8,6 +8,7 @@ package/Saved Games/*
 package/CnCNet5/*
 package/Map and Mission Editor/*
 package/MissionLauncherBackups/*
+package/CustomCampaignData/*
 package/bin/*
 package/maps/*
 package/GAMESFX/*
@@ -57,7 +58,10 @@ package/System.Data.SQLite.dll
 package/ThumbnailExtractor.dll
 
 # User files
+*.log
 package/ddraw.dll
 package/Map Editor/D2kEditor.ini
 package/*.ini
 package/spawn.mis
+package/.game_display.cfg
+package/FAILURE.TXT
