@@ -3,6 +3,54 @@ package/Data/*
 package/Saved Games/*
 package/Client/*
 
+# Game assets dirs if they copied on top of the client
+package/bin/*
+package/maps/*
+package/GAMESFX/*
+package/GAMESFXEng/*
+package/GAMESFXFre/*
+package/GAMESFXGer/*
+package/GAMESFXIta/*
+package/GAMESFXPor/*
+package/GAMESFXRus/*
+package/GAMESFXSpa/*
+package/UI_DATA/*
+package/UI_GFX/*
+package/GameSave/*
+package/Missions/*
+package/Music/*
+
+# Game assets if they copied on top of the client
+package/*.R16
+package/*.R8
+package/*.r16
+package/*.r8
+package/.bak
+package/*.FNT
+package/*.FPL
+package/ICON102_1.ico
+package/DUNE2000.HTM
+package/RESOURCE.CFG
+package/PALETTE.RES
+
+# Game engine related files
+package/MSS32.DLL
+package/PATCHW32.DLL
+package/dpipxsp.dll
+package/dplayx.dll
+package/qres.dat
+package/qres32.dll
+package/dune2000.exe
+package/dune2000-spawn.exe
+
+# Community tools and 3rd party libs
+package/MissionLauncher.exe
+package/Dune2000Config.exe
+package/Dune2000Launcher.exe
+package/SQLite.Interop.dll
+package/System.Data.SQLite.dll
+package/ThumbnailExtractor.dll
+
 # User files
 package/dune2000.ini
 package/ddraw.dll
@@ -11,3 +59,4 @@ package/spawn.ini
 package/spawnmap.ini
 package/rules.ini
 package/rules-spawn.ini
+package/spawn.mis
