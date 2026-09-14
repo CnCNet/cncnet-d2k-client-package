@@ -49,6 +49,7 @@ package/dune2000.exe
 package/dune2000-spawn.exe
 
 # Community tools and 3rd party libs
+package/cncnet5.exe
 package/MissionLauncher.exe
 package/Dune2000Config.exe
 package/Dune2000Launcher.exe
