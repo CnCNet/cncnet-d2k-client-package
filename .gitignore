@@ -10,7 +10,6 @@ package/Map and Mission Editor/*
 package/MissionLauncherBackups/*
 package/CustomCampaignData/*
 package/bin/*
-package/maps/*
 package/GAMESFX/*
 package/GAMESFXEng/*
 package/GAMESFXFre/*
@@ -50,6 +49,7 @@ package/dune2000.exe
 package/dune2000-spawn.exe
 
 # Community tools and 3rd party libs
+package/cncnet5.exe
 package/MissionLauncher.exe
 package/Dune2000Config.exe
 package/Dune2000Launcher.exe
@@ -58,10 +58,11 @@ package/System.Data.SQLite.dll
 package/ThumbnailExtractor.dll
 
 # User files
-*.log
-package/ddraw.dll
-package/Map Editor/D2kEditor.ini
+package/*.log
 package/*.ini
+package/ddraw.dll
 package/spawn.mis
+package/spawnmap.map
 package/.game_display.cfg
 package/FAILURE.TXT
+package/Map Editor/D2kEditor.ini
