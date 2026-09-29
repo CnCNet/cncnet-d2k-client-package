@@ -69,4 +69,23 @@ package/FAILURE.TXT
 # Gruntlord's repack files and dirs
 package/D2K\+/*
 package/Dune 2000/*
+package/Documentation/*
+package/movies/*
+package/westwood/*
 package/Dune 2000 Gruntmods Edition Uninstaller.exe
+package/cncnet5.exe
+package/DeIsL1.isu
+package/dune2000.cfg
+package/DUNE2000.DAT
+package/Dune2000Cutscenes.exe
+package/FONT018.PAL
+package/FONT018.TED
+package/Launch Dune 2000.exe
+package/LAUNCHER.BMP
+package/LAUNCHER.CFG
+package/MissionLauncher.exe.config
+package/MSS32BC.DEF
+package/MSSB16.TSK
+package/NL.CFG
+package/Rise Of The Mercenaries.lnk
+package/version.txt
