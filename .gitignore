@@ -65,3 +65,8 @@ package/*.ini
 package/spawn.mis
 package/.game_display.cfg
 package/FAILURE.TXT
+
+# Gruntlord's repack files and dirs
+package/D2K\+/*
+package/Dune 2000/*
+package/Dune 2000 Gruntmods Edition Uninstaller.exe
